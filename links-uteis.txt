@@ -1,5 +1,5 @@
 ## Download do Git:
-(git-scm.com)
+www.git-scm.com
 
 ## Meu GitHub:
-(https://github.com/camiibeatriz)
+https://github.com/camiibeatriz

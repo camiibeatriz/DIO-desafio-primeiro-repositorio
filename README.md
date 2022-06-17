@@ -1,7 +1,7 @@
-# DIO - Desafio 1
+# DIO - Desafio 1 :muscle:
 Desafio Git / GitHub : criar o primeiro repositório 
 
-###Conteúdo: 
+## Conteúdo: ##
 
 - links úteis
 

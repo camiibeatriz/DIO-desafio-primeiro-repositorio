@@ -1,6 +1,7 @@
-Otávio Reis (Perkles)
+# Otávio Reis (Perkles) #
 
-cmd
+## cmd ##
+
 cd - change directory
 dir - lista de diretórios na pasta
 del/rmdir - deletar pasta com tudo dentro
@@ -8,8 +9,8 @@ mkdir - criar nova pasta
 cd .. - voltar uma
 cls - limpar tela
 
+## git bash ##
 
-git bash
 ctrl l - limpar tela
 git init
 git status
