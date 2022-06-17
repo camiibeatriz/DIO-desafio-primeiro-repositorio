@@ -1,2 +1,30 @@
 Juliana Mascarenhas
 @SimplificandoRedes
+
+Pilares: 
+- Decomposição
+- Padrões
+- Abstração
+- Algoritmos
+
+Raciocínio lógico é uma forma
+de pensamento estruturado, ou raciocínio,
+que permite encontrar a conclusão ou determinar a resolução
+de um problema.
+
+Classificação
+- Indução
+- Dedução
+- Abdução
+
+
+O que é Lógica?
+Definição formal de lógica
+"Parte da filosofia que trata das formas do pensamento
+em geral (dedução, indução, hipótese, inferência etc.) e
+das operações intelectuais que visam à determinação do
+que é verdadeiro ou não."
+
+Técnica Linear
+Técnica Estruturada
+Técnica Modular
