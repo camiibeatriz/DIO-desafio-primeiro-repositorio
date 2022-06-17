@@ -5,6 +5,8 @@ Desafio Git / GitHub : criar o primeiro repositório
 
 - links úteis
 
+- certificados
+
 - módulos
 
   - módulo 1
